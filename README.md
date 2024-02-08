@@ -28,14 +28,8 @@ Happy coding! 🚀
 An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
 
 ### 📫 How to reach me?
-- [Twitter](https://twitter.com/garingh128) 
-- [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/) 
-- [My personal portfolio](http://garimasingh.me) 
-- My personal blog- [Garima Codes](https://garimasingh.netlify.app/)
-- [Medium](https://medium.com/@garingh128)
-- [Sourcerer](https://sourcerer.io/garimasingh128)
+- [LinkedIn](https://www.linkedin.com/in/ahmad-e-el-bastawesy-344006295/)
 
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 
 <p align="center"> 
