@@ -12,20 +12,6 @@
 
 Happy coding! 🚀
 
-### 🌱 What do I do and What have I done? 
-
-- Mentor at OpenMined and Ex-Mentor at AnitaB Organisation for Open Source Hack 2020
-- Recipient of Twitter #DevelopHer India 2020 Scholarship, Bertelsmann Scholarship 2020 and Machine learning Scholarship, Microsoft Azure by Udacity 
-- Mentor and Project Admin at Kharagpur Winter of Code, IIT Kharagpur 2020-21, NJACK Winter of Code, IIT Patna 2020-21, Script Winter of Code 2021, Student Code-in 2020, Build with LetsUpgrade 2020, Contributors's Hack Hackin Codes 2020. 
-- Core Team Member at Developer Student Club, NIT Patna and Hackslash Mozilla Campus Club
-- Alexa Student Influencer 2020 and Chapter Lead at Alexa Dev Hub
-- Current Intern at GeeksForGeeks and Past Full Stack Development Intern at Dataly Services 
-- Course Curator at Uaceit- Ace at your pace and Mission Advocate at Widhya Technologies
-- Global Ambassador at WomenTech Network, Auth0, Girls who Code and GirlUp Foundation
-
-
-### ⚡ One line that describes me best? 
-An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
 
 ### 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/ahmad-e-el-bastawesy-344006295/)
